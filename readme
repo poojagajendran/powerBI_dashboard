@@ -1,0 +1,38 @@
+# Power BI Dashboard Project
+
+## Overview
+This project presents an interactive Power BI dashboard built using data retrieved from a SQL database. The dashboard provides meaningful insights through visualizations, KPI tracking, and trend analysis, helping users make data-driven decisions.
+
+## Features
+- Interactive dashboard with filters and slicers
+- Key Performance Indicators (KPIs)
+- Dynamic charts and graphs
+- Data exploration through drill-down functionality
+- Real-time analysis of SQL data
+
+## Technologies Used
+- Power BI
+- SQL
+- Power Query
+- DAX (Data Analysis Expressions)
+
+## Dataset
+The data is extracted from a SQL database using custom SQL queries. The dataset contains structured records that are transformed and loaded into Power BI for analysis.
+
+## Data Processing
+1. Connected Power BI to the SQL database.
+2. Executed SQL queries to retrieve required data.
+3. Cleaned and transformed data using Power Query.
+4. Created relationships between tables.
+5. Developed calculated columns and measures using DAX.
+6. Built interactive visualizations and reports.
+
+## Dashboard Components
+- KPI Cards
+- Bar Charts
+- Line Charts
+- Pie/Donut Charts
+- Tables and Matrices
+- Slicers and Filters
+
+## Project Structure
